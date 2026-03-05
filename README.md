@@ -109,3 +109,10 @@ O projeto demonstra a aplicação prática de:
 - Organização modular do código
 
 Os arquivos separados (`produto.py` e `carrinho.py`) seguem boas práticas de programação e facilitam a manutenção do sistema.
+
+---
+
+# 👥 Integrantes do Projeto
+
+- **Vitor Kennedy** – vitorkss2722@gmail.com  
+- **Allaf Keven** – allafkeven@gmail.com
