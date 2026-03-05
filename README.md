@@ -1,5 +1,13 @@
 # 🧾 Relatório Técnico – Teoria Aplicada ao Código
 
+**Integrantes do Projeto**
+
+- **Tarsis Taâ** – tarsistsb@gmail.com  
+- **Vitor Kennedy** – vitorkss2722@gmail.com  
+- **Allaf Keven** – allafkeven@gmail.com  
+
+---
+
 Este projeto foi desenvolvido em **Python** utilizando conceitos de **Programação Orientada a Objetos (POO)** e **manipulação de listas**.
 
 ---
@@ -109,10 +117,3 @@ O projeto demonstra a aplicação prática de:
 - Organização modular do código
 
 Os arquivos separados (`produto.py` e `carrinho.py`) seguem boas práticas de programação e facilitam a manutenção do sistema.
-
----
-
-# 👥 Integrantes do Projeto
-
-- **Vitor Kennedy** – vitorkss2722@gmail.com  
-- **Allaf Keven** – allafkeven@gmail.com
